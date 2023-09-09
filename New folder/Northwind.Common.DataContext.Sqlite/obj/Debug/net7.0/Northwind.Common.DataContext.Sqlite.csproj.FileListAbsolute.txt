@@ -1,0 +1,15 @@
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/bin/Debug/net7.0/Northwind.Common.DataContext.Sqlite.deps.json
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/bin/Debug/net7.0/Northwind.Common.DataContext.Sqlite.dll
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/bin/Debug/net7.0/Northwind.Common.DataContext.Sqlite.pdb
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/bin/Debug/net7.0/Northwind.Common.EntityModels.Sqlite.dll
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/bin/Debug/net7.0/Northwind.Common.EntityModels.Sqlite.pdb
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/Northwind.Common.DataContext.Sqlite.csproj.AssemblyReference.cache
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/Northwind.Common.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/Northwind.Common.DataContext.Sqlite.AssemblyInfoInputs.cache
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/Northwind.Common.DataContext.Sqlite.AssemblyInfo.cs
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/Northwind.Common.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/Northwind.Common.DataContext.Sqlite.csproj.CopyComplete
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/Northwind.Common.DataContext.Sqlite.dll
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/refint/Northwind.Common.DataContext.Sqlite.dll
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/Northwind.Common.DataContext.Sqlite.pdb
+/Users/admin/Dev/cs11dotnet7/PracticalApps/Northwind.Common.DataContext.Sqlite/obj/Debug/net7.0/ref/Northwind.Common.DataContext.Sqlite.dll
